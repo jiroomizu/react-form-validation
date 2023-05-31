@@ -1,0 +1,6 @@
+.swc
+
+build
+dist
+coverage
+node_modules
